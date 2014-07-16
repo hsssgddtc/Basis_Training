@@ -35,6 +35,16 @@ Numbers
 
 **Combination** - We have numbers 1,2,3,4. How many different three-digit numbers can they combined without duplicate digits.Print them all.
 
+**Binary Decimal Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+
+**Palindrome or Not** - Let user input a number and return a result if this number is a palindrome number or not.
+
+**Narcissistic Number** - Narcissistic Numbers, is defined as a three-digits-number, summary of each number's cube is the Narcissistic Numbers itself. For example, 153 is a Narcissistic Numbers, cause 153=1^3+5^3+3^3. Print all Narcissistic Numbers in a column.
+
+**Perfect Number** - If a number exactly equals the summary of its proper factor, we call it perfect number. Such as 28 = 1 + 2 + 4 + 7 + 14. Write a program and print all perfect number under 1000.
+
+**Find Pi** - Find out the value of π use below formulas: π = 4 * (1/1 - 1/3 + 1/5 - 1/7 + ...), until the absolute value of the last item less than 0000001.
+
 Arrays
 ------------
 
