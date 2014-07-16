@@ -27,7 +27,13 @@ Numbers
 3. Print the area of three circles in descent orders.  
 4. Set the height of cylinder h=3.6, bottom radius is the radius of the circle with minimus area. Try to find out the circumference and cylindrical volume. Print out them with description and keep 2 digits. 
 
-------------
+**Factorial Calculation** - Input a positive integer n and calculate the result of 1!+2!+3!+......+n!. Use both recursion and loops.
+
+**Prime or Not** - For the number between 101 and 200. Judge if it's prime number or not. If not, print all its positive divisor.
+
+**Greatest and Least** - Input two integer m and n, findout their greatest common divisor and least common multiple.
+
+**Combination** - We have numbers 1,2,3,4. How many different three-digit numbers can they combined without duplicate digits.Print them all.
 
 Arrays
 ------------
