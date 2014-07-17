@@ -25,7 +25,7 @@ Numbers
 1. Find out the area of three circles. Print in one column and make the decimal point align. Keep 3 digits.  
 2. Find out the circle with maximum area, round-up and print its area.  
 3. Print the area of three circles in descent orders.  
-4. Set the height of cylinder h=3.6, bottom radius is the radius of the circle with minimus area. Try to find out the circumference and cylindrical volume. Print out them with description and keep 2 digits. 
+4. Set the height of cylinder h=3.6, bottom radius is the radius of the circle with minumum area. Try to find out the circumference and cylindrical volume. Print out them with description and keep 2 digits. 
 
 **Factorial Calculation** - Input a positive integer n and calculate the result of 1!+2!+3!+......+n!. Use both recursion and loops.
 
@@ -43,7 +43,7 @@ Numbers
 
 **Perfect Number** - If a number exactly equals the summary of its proper factor, we call it perfect number. Such as 28 = 1 + 2 + 4 + 7 + 14. Write a program and print all perfect number under 1000.
 
-**Find Pi** - Find out the value of π use below formulas: π = 4 * (1/1 - 1/3 + 1/5 - 1/7 + ...), until the absolute value of the last item less than 0000001.
+**Find Pi** - Find out the value of π use below formulas: π = 4 * (1/1 - 1/3 + 1/5 - 1/7 + ...), until the absolute value of the last item less than 0.00000001.
 
 Strings
 ------------
