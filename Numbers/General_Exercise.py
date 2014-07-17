@@ -1,7 +1,9 @@
-
 #This is the solution under Numbers category for project https://github.com/hsssgddtc/Basis-Training
-Pi = 3.1415926    #define constant Pi
+"""Write a program, define the constant Pi=3.1415926, define 3 variables in Double type, 
+assign them value from keyboard input(judge the input type, report an error if not numbers), 
+take them as the radius r of three circles."""
 
+Pi = 3.1415926
 #function to read number from keyboard
 def readNumber(seq):
     while(True):
@@ -14,14 +16,12 @@ def readNumber(seq):
             print "You need to enter a number."
     return input_var
 
-
-input_var1 = readNumber(1)   #assign input value to the 1st variable
+input_var1 = readNumber(1)   
 input_var2 = readNumber(2)
 input_var3 = readNumber(3)
 
 #1. Find out the area of three circles. Print in one column and make the decimal point align. Keep 3 digits.
 print "\n#1.The area of 3 circles are:\n{0:10.3f}\n{1:10.3f}\n{2:10.3f}\n".format(Pi*pow(input_var1,2),Pi*pow(input_var2,2),Pi*pow(input_var3,2))
-#print "%10.3f \n%10.3f \n%10.3f".rjust(10) %(Pi*pow(input_var1,2), Pi*pow(input_var2,2), Pi*pow(input_var3,2))
 
 #2. Find out the circle with maximum area, round-up and print its area.
 bigger_radius = input_var1 if input_var1>input_var2 else input_var2
