@@ -27,23 +27,23 @@ Numbers
 3. Print the area of three circles in descent orders.  
 4. Set the height of cylinder h=3.6, bottom radius is the radius of the circle with minumum area. Try to find out the circumference and cylindrical volume. Print out them with description and keep 2 digits. 
 
-**Factorial Calculation** - Input a positive integer n and calculate the result of 1!+2!+3!+......+n!. Use both recursion and loops.
+[**Factorial Calculation**](https://github.com/hsssgddtc/Basis_Training/blob/master/Numbers/Factorial_Calculation.py)  - Input a positive integer n and calculate the result of 1!+2!+3!+......+n!. Use both recursion and loops.
 
-**Prime or Not** - For the number between 101 and 200. Judge if it's prime number or not. If not, print all its positive divisor.
+[**Prime or Not**](https://github.com/hsssgddtc/Basis_Training/blob/master/Numbers/Prime_or_Not.py) - For the number between 101 and 200. Judge if it's prime number or not. If not, print all its positive divisor.
 
-**Greatest and Least** - Input two integer m and n, findout their greatest common divisor and least common multiple.
+[**Greatest and Least**](https://github.com/hsssgddtc/Basis_Training/blob/master/Numbers/Greatest_and%20Least.py) - Input two integer m and n, findout their greatest common divisor and least common multiple.
 
-**Combination** - We have numbers 1,2,3,4. How many different three-digit numbers can they combined without duplicate digits? Print them all.
+[**Combination**](https://github.com/hsssgddtc/Basis_Training/blob/master/Numbers/Combination.py) - We have numbers 1,2,3,4. How many different three-digit numbers can they combined without duplicate digits? Print them all.
 
-**Binary Decimal Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+[**Binary Decimal Converter**](https://github.com/hsssgddtc/Basis_Training/blob/master/Numbers/Binary_Decimal_Converter.py) - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
-**Palindrome or Not** -  Checks if a number entered by the user is a palindrome number. That is that it reads the same forwards as backwards like 1234321.
+[**Palindrome or Not**](https://github.com/hsssgddtc/Basis_Training/blob/master/Numbers/Palindrome.py) -  Checks if a number entered by the user is a palindrome number. That is that it reads the same forwards as backwards like 1234321.
 
-**Narcissistic Number** - Narcissistic Numbers, is defined as a three-digits-number, summary of each number's cube is the Narcissistic Numbers itself. For example, 153 is a Narcissistic Numbers, cause 153 = 1^3 + 5^3 + 3^3. Print all Narcissistic Numbers in a column.
+[**Narcissistic Number**]() - Narcissistic Numbers, is defined as a three-digits-number, summary of each number's cube is the Narcissistic Numbers itself. For example, 153 is a Narcissistic Numbers, cause 153 = 1^3 + 5^3 + 3^3. Print all Narcissistic Numbers in a column.
 
-**Perfect Number** - If a number exactly equals the summary of its proper factor, we call it perfect number. Such as 28 = 1 + 2 + 4 + 7 + 14. Write a program and print all perfect number under 1000.
+[**Perfect Number**](https://github.com/hsssgddtc/Basis_Training/blob/master/Numbers/Palindrome.py) - If a number exactly equals the summary of its proper factor, we call it perfect number. Such as 28 = 1 + 2 + 4 + 7 + 14. Write a program and print all perfect number under 1000.
 
-**Find Pi** - Find out the value of π use below formulas: π = 4 * (1/1 - 1/3 + 1/5 - 1/7 + ...), until the absolute value of the last item less than 0.00000001.
+[**Find Pi**](https://github.com/hsssgddtc/Basis_Training/blob/master/Numbers/Find_Pi.py) - Find out the value of π use below formulas: π = 4 * (1/1 - 1/3 + 1/5 - 1/7 + ...), until the absolute value of the last item less than 0.00000001.
 
 Strings
 ------------
