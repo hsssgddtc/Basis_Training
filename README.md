@@ -7,13 +7,11 @@ A batch of basis exercises make you can get familiar with one language. I will u
 This project will be divided into below categories. You can find each category in its own folder.  
 1. Numbers  
 2. Strings  
-3. Arrays  
-4. Branch   
-5. Loops  
-6. Math  
-7. Recursion  
-8. Order  
-9. Class
+3. Native Data Types  
+4. Branch and Loops   
+5. Math and Recursion  
+6. Order  
+7. Class
 
 ##Details
 - I may not complete all of them.  
@@ -53,19 +51,19 @@ Strings
 
 **Reverse a string** - Enter a string and the program will reverse it and print it out.
 
-Arrays
+**Substring** - Slice a string input by user. Report an error if the start or end position is wrong.
+
+**Computer Size Converter** - Convert a file size to human-readable form. For example, 456,275 bytes shoule be converted as 445 KB.
+
+**String Split** Enter a string and a character. Return with strings split by this character.For example,"user=pilgrim&database=master&password=PapayaWhip" split by & should output ['user=pilgrim', 'database=master', 'password=PapayaWhip']. Try different ways to solve.
+
+Native Data Type
 ------------
 
-Branch
+Branch and Loops
 ------------
 
-Loops
-------------
-
-Math
-------------
-
-Recursion
+Math and Recursion
 ------------
 
 Order
